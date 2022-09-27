@@ -1,0 +1,27 @@
+.maind{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 2px 5px 8px;
+
+
+}
+.image img {
+    width: 100%;
+
+}
+.secondpage{
+    height: 100vh;
+    display:flex;
+    align-items: center;
+}
+.leftside{
+    width: 10%;
+}
+
+.secondpage{
+
+    background-image: url("allbackimg.jpg");
+    background-size: cover;
+}
