@@ -13,7 +13,7 @@ function About()
                         i have joined NS for learning more web development while
                         pursuing this course I have made/created which I have 
                         mentioned in me resume which are  . Apart from
-                        that I fancy Dancing,singing,sketching,traveling</h2>
+                        that I fancy Dancing,singing,sketching,traveling,ETC.</h2>
                 </div>
                 </div>
     )
