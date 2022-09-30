@@ -11,7 +11,7 @@ function Home()
                     <h1 id="largefont">I'M PRATIMA</h1>
                     <h3 id="smallfont">FULL STACK WEB DEVELOPER</h3>
                     <h4>"Newton school showed me that as long as I dedicate myself to something, I can do it."</h4>
-                    <button>MORE ABOUT ME</button>
+                    <a href="spage"><button>MORE ABOUT ME</button></a>
                     </div>
 
                     <div className="righthome"></div>

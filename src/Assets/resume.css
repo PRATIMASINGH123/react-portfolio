@@ -1,0 +1,31 @@
+.resume{
+    width: 100%;
+    text-align: center;
+}
+
+.resume-btn{
+    margin: 0 auto;
+    width: 50%;
+    padding: 2%;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-top: 10%;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    transition: 700ms;
+    
+}
+
+.resume-btn a,p{
+    font-weight: 900;
+    color: black;
+    width: 100%;
+ 
+}
+
+.resume-btn a,p:hover{
+    color: red;
+}
+
+
