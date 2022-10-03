@@ -10,7 +10,7 @@ function Resume()
             <h1>RESUME</h1>
          </div>
           <div className="resume-btn">
-                <a href="#"><p>Click to open</p></a>
+                <a href="https://drive.google.com/file/d/1K393ekstF_yBqAEVXf2A5xa335ndqAmU/view?usp=sharing"><p>Click to open</p></a>
           </div>
       </div>
     )
