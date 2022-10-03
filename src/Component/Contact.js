@@ -1,5 +1,5 @@
-import react from "react"
-import contact from "../Assets/contact.css"
+import React from "react"
+
 function Contact()
 {
     return(
